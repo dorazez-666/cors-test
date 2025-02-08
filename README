@@ -1,0 +1,17 @@
+# CORS Testing Project
+
+This project is designed to test **Cross-Origin Resource Sharing (CORS)** functionality and configurations.
+
+## Overview
+
+CORS is a mechanism that allows web applications running at one origin (domain) to request resources from a different origin (domain). This project helps to test and debug CORS headers and their behavior when making cross-origin requests.
+
+## Quick Setup
+
+If you've done this kind of thing before, you can quickly set up and start testing the CORS functionality in your environment.
+
+### Steps to Get Started:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/dorazez-666/cors-test.git
